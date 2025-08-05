@@ -1,3 +1,3 @@
 a='java'
-b='language'
+b='language sksks  sksksksk s s'
 print(a+b)
